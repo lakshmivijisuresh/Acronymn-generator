@@ -1,0 +1,15 @@
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.csproj.AssemblyReference.cache
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.AssemblyInfoInputs.cache
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.AssemblyInfo.cs
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.csproj.CoreCompileInputs.cache
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\bin\Debug\net6.0\Acronymgenerator.exe
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\bin\Debug\net6.0\Acronymgenerator.deps.json
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\bin\Debug\net6.0\Acronymgenerator.runtimeconfig.json
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\bin\Debug\net6.0\Acronymgenerator.dll
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\bin\Debug\net6.0\Acronymgenerator.pdb
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.dll
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\refint\Acronymgenerator.dll
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.pdb
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\Acronymgenerator.genruntimeconfig.cache
+C:\Users\vijayalakshmi.surend\source\repos\Acronymgenerator\obj\Debug\net6.0\ref\Acronymgenerator.dll
